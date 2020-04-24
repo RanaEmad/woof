@@ -1,6 +1,6 @@
 # WOOF!
 
-A single pagege website built with React that fetches a random dog image everytime it is refreshed.
+A single page website built with React that fetches a random dog image everytime it is refreshed.
 
 # Installation
 
