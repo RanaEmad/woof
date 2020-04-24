@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  background: transparent;
+}
+.wrapper {
+  background-image: url("./../../assets/paws.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dog-img {
+  max-width: 400px;
+  max-height: 400px;
+  border: #b0deeb solid 15px;
+}
+
+.dog-header {
+  margin-bottom: 10px;
+  color: #f0f8ff;
+}
